@@ -1,0 +1,24 @@
+{
+  "name": "redux-exercise",
+  "version": "0.0.0",
+  "description": "Redux Exercise",
+  "main": "index.js",
+  "author": "Joni Nousiainen",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-redux": "^4.0.6",
+    "redux": "^3.0.5"
+  },
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "babel-core": "^5.6.18",
+    "babel-loader": "^5.1.4",
+    "redux-devtools": "^3.0.1",
+    "webpack": "^1.12.10",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
